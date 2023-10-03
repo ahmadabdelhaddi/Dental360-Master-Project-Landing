@@ -24,22 +24,22 @@ function Footer() {
               <h6 className="text-uppercase fw-bold mb-4">Products</h6>
               <p>
                 <a href="#!" className="text-reset">
-                  Espresso
+                  Home
                 </a>
               </p>
               <p>
                 <a href="#!" className="text-reset">
-                  Americano
+                  About us
                 </a>
               </p>
               <p>
                 <a href="#!" className="text-reset">
-                  Cappuccino
+                  Contact us
                 </a>
               </p>
               <p>
                 <a href="#!" className="text-reset">
-                  Latte
+                  Menu
                 </a>
               </p>
             </Col>
@@ -48,7 +48,7 @@ function Footer() {
               <h6 className="text-uppercase fw-bold mb-4">Useful links</h6>
               <p>
                 <a href="#about" className="text-reset">
-                  About Us
+                  App{" "}
                 </a>
               </p>
               <p>

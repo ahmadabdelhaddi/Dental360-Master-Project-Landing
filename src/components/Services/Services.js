@@ -9,7 +9,7 @@ function Services() {
         <Container>
           <Row className="text-center">
             <Col xs={12} lg={12} md={12} sm={12} className="mt-5">
-              <h1 style={{ color: "#113d56" }}>Discover All Menu</h1>
+              <h1 style={{ color: "#10988b" }}>Discover All Menu</h1>
               <p className="text-center">Explore our Serivces we Provide :</p>
             </Col>
           </Row>

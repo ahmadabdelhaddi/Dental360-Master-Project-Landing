@@ -48,7 +48,7 @@ function Features() {
         </div>
         <div className="feature col-12 col-lg-3 col-md-6 col-sm-12">
           <img src="./online_appointment.png" alt="Unique Flavors" />
-          <h4 className="mt-2">Unique Flavors</h4>
+          <h4 className="mt-2">Open 7AM to 7PM</h4>
           <p>
             Explore a diverse range of coffee flavors, from bold and robust to
             smooth and creamy, there's something for every taste.

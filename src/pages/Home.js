@@ -12,11 +12,11 @@ function Home() {
   return (
     <>
       <HeroSection />
-      <About />
-      <ImgSection />
-      <Features />
       <Services />
+      <About />
+      <Features />
       <About_two />
+      {/* <ImgSection /> */}
       <Contact />
       <Footer />
     </>
